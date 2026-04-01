@@ -1,0 +1,30 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"success":true,"doctors":[{"docAvatar":{"public_
+                    id":"jesqpeywvsdy6phsax6o","url":"https://res.clo
+                    udinary.com/dkbfm60kp/image/upload/v1749843679/je
+                    sqpeywvsdy6phsax6o.jpg"},"_id":"684c7ee0512aaa35d
+                    1137...
+RawContent        : HTTP/1.1 200 OK
+                    Vary: Origin
+                    Access-Control-Allow-Credentials: true
+                    Connection: keep-alive
+                    Keep-Alive: timeout=5
+                    Content-Length: 3553
+                    Content-Type: application/json; charset=utf-8
+                    Date: Fri, 13...
+Forms             : {}
+Headers           : {[Vary, Origin], 
+                    [Access-Control-Allow-Credentials, true], 
+                    [Connection, keep-alive], [Keep-Alive, 
+                    timeout=5]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 3553
+
+
+
